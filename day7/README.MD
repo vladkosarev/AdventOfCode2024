@@ -1,0 +1,1 @@
+This was a test of permutations. We just test every possible permutation of operators until we get the right result. The way I implemented puzzle 1 allowed me to solve puzzle 2 in 3 additional lines of code (just another switch path).
