@@ -1,0 +1,1 @@
+Line drawing. First, we grab all the possible pairs of antennas and then we do step one of the line drawing. In Puzzle 2 the only change is adding a multiplier counter to draw the whole line instead of just the first step. Relatively simple.
